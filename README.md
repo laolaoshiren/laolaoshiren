@@ -69,7 +69,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=laolaoshiren&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-## 🎯 2024 目标 | Goals
+## 🎯 2025 目标 | Goals
 
 > 目标就是用代码征服世界 🌍
 
