@@ -8,7 +8,7 @@
     <a href="https://github.com/laolaoshiren"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"></a>
     <img src="https://img.shields.io/badge/全栈工程师-brightgreen?style=for-the-badge" alt="全栈工程师">
     <img src="https://img.shields.io/badge/架构师-red?style=for-the-badge" alt="架构师">
-    <img src="https://img.shields.io/badge/技术专家-blue?style=for-the-badge" alt="技术专家">
+    <img src="https://img.shields.io/badge/AI工程师-blue?style=for-the-badge" alt="AI工程师">
   </p>
 </div>
 
@@ -16,8 +16,8 @@
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
 
-- 🎯 全栈架构师，技术大牛
-- 🚀 精通前端、后端、云原生、人工智能
+- 🎯 全栈架构师，专注 AI 基础设施与 Agent 系统
+- 🚀 深耕 LLM 应用、RAG 架构、模型推理优化
 - 🎨 代码就是艺术，bug 都被我优雅处理
 - 🌱 深度思考者，技术布道师
 - 🎸 除了编程，我还是个艺术家
@@ -34,6 +34,17 @@
   <img src="https://img.shields.io/badge/Python-精通-3776ab?style=for-the-badge&logo=python&logoColor=3776ab"/>
   <img src="https://img.shields.io/badge/Java-登峰造极-007396?style=for-the-badge&logo=java&logoColor=007396"/>
   <img src="https://img.shields.io/badge/Go-出神入化-00add8?style=for-the-badge&logo=go&logoColor=00add8"/>
+  <img src="https://img.shields.io/badge/Rust-新宠-de2821?style=for-the-badge&logo=rust&logoColor=white"/>
+</p>
+
+### 🤖 AI / 大模型
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-炼丹利器-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-链式思维-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vLLM-推理优化-000000?style=for-the-badge&logoColor=58A6FF"/>
+  <img src="https://img.shields.io/badge/DSPy-声明式AI-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Llama.cpp-本地推理-8957e5?style=for-the-badge"/>
 </p>
 
 ### 🎨 前端开发
@@ -49,6 +60,7 @@
   <img src="https://img.shields.io/badge/Node.js-宗师-339933?style=for-the-badge&logo=node.js&logoColor=339933"/>
   <img src="https://img.shields.io/badge/Spring-大师-6db33f?style=for-the-badge&logo=spring&logoColor=6db33f"/>
   <img src="https://img.shields.io/badge/Django-精通-092e20?style=for-the-badge&logo=django&logoColor=092e20"/>
+  <img src="https://img.shields.io/badge/FastAPI-闪电-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### ☁️ 云技术
@@ -56,6 +68,7 @@
   <img src="https://img.shields.io/badge/AWS-架构师认证-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=232f3e"/>
   <img src="https://img.shields.io/badge/Docker-容器专家-2496ed?style=for-the-badge&logo=docker&logoColor=2496ed"/>
   <img src="https://img.shields.io/badge/Kubernetes-编排大师-326ce5?style=for-the-badge&logo=kubernetes&logoColor=326ce5"/>
+  <img src="https://img.shields.io/badge/Cloudflare-边缘计算-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
 </p>
 
 ## 📊 GitHub 统计 | Statistics
@@ -69,15 +82,15 @@
   <img src="https://github-profile-trophy.vercel.app/?username=laolaoshiren&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-## 🎯 2025 目标 | Goals
+## 🎯 2026 目标 | Goals
 
-> 目标就是用代码征服世界 🌍
+> 目标就是用 AI 征服世界 🌍
 
-- 🚀 带领团队开发改变世界的产品
-- 🎯 成为技术社区最闪耀的星星
-- 📚 写一本技术著作
-- 🎤 在国际技术大会上分享经验
-- 🌱 培养 100 个技术大牛
+- 🚀 深耕 Agent 架构，打造可落地的 Multi-Agent 系统
+- 🎯 探索 RAG + Fine-tuning 最佳实践，提升模型推理能力
+- 📚 构建 AI 工具链生态，让 AI 开发更高效
+- 🎤 在技术社区分享 AI 基础设施实战经验
+- 🌱 推动 MCP 协议标准化，打通 AI 工具互联
 
 ## 🎉 个人成就 | Achievements
 
@@ -98,11 +111,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/laolaoshiren/count.svg" />
-</div>
